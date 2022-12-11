@@ -18,7 +18,7 @@ checkout "https://learnweb3.io/courses/9a3fafe4-b5eb-4329-bdef-97b2aa6aacc1/less
 deployment.
 
 Deployed contract address:
-Goerli Testnet Network --> 0xF65D645172439a0699276E7D5659b70e243DA7Fa
+Goerli Testnet Network --> 0xf3D440Ef6a0404db33b14D91f819bb3C3A80227e
 
 use Hardhat:
 compile: npx hardhat compile,
