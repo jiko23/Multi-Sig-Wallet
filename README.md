@@ -24,4 +24,4 @@ use Hardhat:
 compile: npx hardhat compile,
 deploy: npx hardhat run scripts/deploy.js
 
-**NOTE: These contracts has been tested on Remix.
+**NOTE: These contracts has been tested on Remix. Contract creater address is my metamask account address. This is the final address and other similar contracts present are while testing the deployments. All are from my account.
