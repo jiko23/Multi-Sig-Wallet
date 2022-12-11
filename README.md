@@ -21,5 +21,7 @@ Deployed contract address:
 Goerli Testnet Network --> 0xF65D645172439a0699276E7D5659b70e243DA7Fa
 
 use Hardhat:
-compile: npx hardhat compile
+compile: npx hardhat compile,
 deploy: npx hardhat run scripts/deploy.js
+
+**NOTE: These contracts has been tested on Remix.
